@@ -71,7 +71,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+#  rss: false
   email: "b.shriganesh@gmail.com"
   facebook: shriganesh.bollakpalli.7
   github: Rhythorn
@@ -81,11 +81,11 @@ social-network-links:
   linkedin: Shriganesh Bollakpalli
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-  snapchat: Rhythorn
+# snapchat: Rhythorn
   instagram: _s_ganesh
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +7032288502
+# telephone: +7032288502
   steam: rhythorn
 #  twitch: yourname
 #  yelp: yourname
