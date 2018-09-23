@@ -17,4 +17,4 @@ Multi-linguistic in 6 languages namely Swahili, French, English, Hindi, Telugu a
 Currently part of the [DMT - Webops Team](https://github.com/DMT-IIITDM) of IIITDM Kancheepuram. Proficient in Pascal, C, HTML and CSS. Apart from code, know how to design
 in Adobe Photoshop, Illustrator, XD & InDesign and 3D modeling in Fusion 360, Inventor and CATIA. 
 
-Love reading. A few recommendations if you have not read to start off could include _End of Eternity by Isaac Asimov, And the Mountains Echoed by Khaled Hosseini, Inferno by Dan Brown, Homo Deus by Y.N.Harari, Alchemist by Paulo Coelho, Alaska by John Green, Turtles all the way Down by John Green._
+Love reading. A few recommendations if you have not read to start off could include _End of Eternity by Isaac Asimov, And the Mountains Echoed by Khaled Hosseini, Inferno by Dan Brown, Homo Deus by Y.N.Harari, Alchemist by Paulo Coelho, Looking for Alaska by John Green, Turtles all the way Down by John Green._
